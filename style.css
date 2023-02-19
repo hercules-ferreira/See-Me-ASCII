@@ -31,41 +31,41 @@ button:hover {
 #canvas1 {
   border: 2px solid white;
   position: absolute;
-  top: 20%;
+  top: 21%;
   left: 4%;
   transform: translate(-50, -50);
-  width: 300px;
-  height: 500px;
+  width: 22%;
+  height: 75%;
 }
 
 #canvas2 {
   border: 2px solid white;
   position: absolute;
-  top: 20%;
+  top: 21%;
   left: 27%;
   transform: translate(-50, -50);
-  width: 300px;
-  height: 500px;
+  width: 22%;
+  height: 75%;
 }
 
 #canvas3 {
   border: 2px solid white;
   position: absolute;
-  top: 20%;
+  top: 21%;
   left: 50%;
   transform: translate(-50, -50);
-  width: 300px;
-  height: 500px;
+  width: 22%;
+  height: 75%;
 }
 
 #canvas4 {
   border: 2px solid white;
   position: absolute;
-  top: 20%;
+  top: 21%;
   left: 73%;
   transform: translate(-50, -50);
-  width: 300px;
-  height: 500px;
+  width: 22%;
+  height: 75%;
 }
 
 .ImageBtn {
@@ -89,7 +89,7 @@ button:hover {
 #btn1 {
   object-fit: cover;
   margin-right: 1230px;
-  margin-top: 90px;
+  margin-top: 25px;
 }
 
 #btn2 {
@@ -145,4 +145,41 @@ button:hover {
 #btn12 {
   margin-left: 1005px;
   margin-top: 25px;
+}
+
+.col {
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#seeImages {
+  width: 25%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+.ImageBtn2 {
+  position: absolute;
+  text-align: center;
+  background-color: #f1e1c9;
+  color: #000000;
+  border: 1px solid #ed9c28;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: all 0.3s ease;
+}
+
+.ImageBtn2:hover {
+  background-color: #fff;
+  color: #000000;
+  font-size: medium;
 }
