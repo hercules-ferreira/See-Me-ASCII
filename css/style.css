@@ -190,6 +190,41 @@ button:hover {
   transform: translate(-50%, -50%);
 }
 
+#game_Over_Color_See_Images {
+  width: 25%;
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+#game_Over_Color_Black_White_See_Images {
+  width: 25%;
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+#game_Over_Color_Black_White_See_Images2 {
+  width: 25%;
+  position: absolute;
+  top: 12%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+
 #Start_color {
   width: 25%;
   position: absolute;
@@ -214,6 +249,14 @@ button:hover {
   transform: translate(-50%, -50%);
 }
 
+
+#to_go_back_intro {
+  width: 25%;
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
 
 #rulesIntro {
   width: 25%;
