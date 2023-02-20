@@ -155,7 +155,15 @@ button:hover {
   transform: translate(-50%, -50%);
 }
 
-#seeImages {
+.col_rules {
+  width: 50%;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+
+#seeImages_black {
   width: 25%;
   position: absolute;
   top: 20%;
@@ -165,6 +173,55 @@ button:hover {
 
 
 
+#seeImages_Game_Color {
+  width: 25%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+#seeImages_color {
+  width: 25%;
+  position: absolute;
+  top: 13%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#Start_color {
+  width: 25%;
+  position: absolute;
+  top: 13%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#Start_black {
+  width: 25%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#seeImages_rules {
+  width: 25%;
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+
+
+#rulesIntro {
+  width: 25%;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 .ImageBtn2 {
   position: absolute;
