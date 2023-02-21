@@ -698,9 +698,9 @@ btn12.onclick = function () {
 
   function score() {
     if (count === 4)
-      alert('Voce Venceu! Parabéns!!!\nVocê fez 4000 pontos')
+      alert(`Voce Venceu! Parabéns!!!\nVocê fez: ${time * (Math.random() * 1000).toFixed(0)}  pontos!!!`)
+
     window.location.href = 'game_Victory.html'
-    // c(`${count}`.random()* 5)
     c('valor 4')
   }
   score()
@@ -802,7 +802,7 @@ btn11.onclick = function () {
 
 
 //
-// cronometro
+// chronometer
 
 let time = 20
 let chronometer = setInterval(function () {

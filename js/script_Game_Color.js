@@ -625,20 +625,24 @@ btn10.onclick = function () {
     document.getElementById("button10").disabled = true;
   }
   desable10();
-  c(typeof count, count)
+  c(count)
 
   function score() {
-    if (count === 4)
-      alert('Voce Venceu! Parabéns!!!\nVocê fez 4000 pontos')
-    window.location.href = 'game_Victory.html'
-    // window.location.href = 'game.html'
-    // // c(`${count}`.random()* 5)
-    c('valor 3')
+    if (count === 4) {
+      // c(time)
+      c(parseInt(time * (Math.random() * 1000).toFixed(0)))
+
+      alert(`Voce Venceu! Parabéns!!!\nVocê fez: ${time * (Math.random() * 1000).toFixed(0)}  pontos!!!`)
+
+      window.location.href = 'game_Victory.html'
+
+    }
+    c('valor 4')
   }
   score()
+
   //
 };
-//
 //
 //
 
@@ -724,19 +728,8 @@ btn12.onclick = function () {
   c(count0);
 };
 
-// function victory (count){
-//   if(count ===3 ){
-//     alert('Voce Venceu! Parabéns!!!')
-// window.location.href = 'game.html'
-// // c(`${count}`.random()* 5)
-//   }else{
-
-//   document.getElementById('watch').innerHTML = time
-//   }}
-
-
 //
-// cronometro
+// chronometer
 
 let time = 30
 let chronometer = setInterval(function () {
