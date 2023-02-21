@@ -1,37 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>See Me? ASCII</title>
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css" />
-  <title>See Me? ASCII</title>
-</head>
-
-<body>
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <img src="./image/inicio.gif" </div>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col"><img src="./image/inicio.gif"</div>
       </div>
     </div>
     <div>
-      <button id="Start_color" onclick="click()" type="seeImages" class="ImageBtn2">
-        Start - Color Images - Level Easy
-      </button>
+      <h1 id="timeRemaining">Time Remaining</h1>
+      <h1 id="watch"></h1>
     </div>
     <div>
-      <button id="Start_black" onclick="click()" type="seeImages" class="ImageBtn2">
-        Start - Black and White Images - Level Hard
-
+      <button
+        id="Start_color"
+        onclick="click()"
+        type="seeImages"
+        class="ImageBtn2"
+      >
+        Start Game - Color Images - Level Easy
       </button>
     </div>
 
     <div>
-      <button id="rulesIntro" onclick="click()" type="seeImages" class="ImageBtn2">
+      <button
+        id="Start_black"
+        onclick="click()"
+        type="seeImages"
+        class="ImageBtn2"
+      >
+        Start Game - Black and White Images - Level Medium
+      </button>
+    </div>
+
+    <div id="buttonExplosion">
+      <button id="buttonExplosion" onclick="click()" type="buttonExplosion" class="ImageBtn">
+        Start Game - Images Explosion Color - Level Hard
+      </button>
+    </div>
+    
+
+
+    <div>
+      <button
+        id="rulesIntro"
+        onclick="click()"
+        type="seeImages"
+        class="ImageBtn2"
+      >
         Rules
-
       </button>
     </div>
 
@@ -40,9 +64,8 @@
     <script src="/js/buttons/button_Start_Game_Color.js"></script>
 
     <script src="/js/buttons/button_Rules.js"></script>
+    
+    <script src="/js/buttons/button_Start_Game_Color_Explosion.js"></script>
 
-    <script src="/js/buttons/button_Return_Intro.js"></script>
-
-</body>
-
+  </body>
 </html>
