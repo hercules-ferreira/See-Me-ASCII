@@ -24,10 +24,23 @@ button {
   color: black;
 }
 
+ 
 button:hover {
   cursor: pointer;
-}
- 
+} 
+
+
+.ImageBtn {
+  position: absolute;
+  text-align: center;
+  background-color: #f1e1c9;
+  color: #000000;
+  border: 1px solid #ed9c28;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: all 0.3s ease;
+} 
 
 .col {
   width: 50%;
@@ -86,18 +99,6 @@ button:hover {
   height: 75%;
 }
 
-.ImageBtn {
-  position: absolute;
-  text-align: center;
-  background-color: #f1e1c9;
-  color: #000000;
-  border: 1px solid #ed9c28;
-  border-radius: 8px;
-  cursor: pointer;
-  font-size: 15px;
-  transition: all 0.3s ease;
-}
-
 #canvasExplosion {
   border: 2px solid white;
   position: absolute;
@@ -129,6 +130,8 @@ button:hover {
   margin-right: 1230px;
   margin-top: 25px;
 }
+
+
 
 #btn2 {
   margin-right: 1040px;
@@ -251,7 +254,7 @@ button:hover {
 #game_Over_Color_Black_White_See_Images {
   width: 25%;
   position: absolute;
-  top: 18%;
+  top: 14%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -366,3 +369,73 @@ button:hover {
   display: none;
 }
 
+.titulo {
+  margin-top: 15px;
+  margin-left: 700px;
+  font-family: 'Playfair Display SC', georgia;
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  grid-column: 1 / 4;
+}
+
+#h1Paraga {
+  color: #fff;
+   font-family: 'Playfair Display SC', georgia;
+  font-size: 1rem;
+  line-height: 1;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  grid-column: 1 / 4;
+}
+
+
+#ulDescricao{
+  margin-top: 20px;
+  margin-left: 650px;
+  position: absolute;
+  text-align: center;
+  background-color: #f1e1c9;
+  color: #000000;
+  border: 1px solid #ed9c28;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: all 0.3s ease;
+}
+
+
+
+
+.scrollbar-lista {
+  height: 370px;
+  overflow-y: scroll;
+  grid-column: 2;
+}
+
+.scrollbar-lista li {
+  cursor: pointer;
+}
+
+.scrollbar-lista::-webkit-scrollbar {
+  width: 18px;
+}
+
+.scrollbar-lista::-webkit-scrollbar-thumb {
+  background: #FB5;
+  border-left: 4px solid #faf6ed;
+  border-right: 4px solid #faf6ed;
+}
+
+.scrollbar-lista::-webkit-scrollbar-track {
+  background: #faf6ed;
+}
+
+.scrollbar-descricao {
+  grid-column: 3;
+}
+
+.scrollbar-descricao section {
+  margin-bottom: 3rem;
+}

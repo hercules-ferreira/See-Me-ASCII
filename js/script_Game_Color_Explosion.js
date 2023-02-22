@@ -12,9 +12,6 @@ c(
 //  {#60a,2}
 // Explicação dos Exercícios
 //
-//
-//
-//
 window.addEventListener("load", () => {
   const canvas = document.getElementById("canvasExplosion");
   const ctx = canvas.getContext("2d");
@@ -116,6 +113,8 @@ let btn3ExploScore = document.getElementById("btn3Explosion");
 btn3ExploScore.onclick = function () {
   count += 1;
   function desable3() {
+    
+    document.getElementById("btn3Explosion").style.background = '#ed9c28'
     document.getElementById("btn3Explosion").disabled = true;
   }
   desable3();
@@ -166,6 +165,7 @@ let btn1 = document.getElementById("button1Explosion");
 btn1.onclick = function () {
   count0 = 0;
   function desable1() {
+    document.getElementById("button1Explosion").style.background = '#ed9c28'
     document.getElementById("button1Explosion").disabled = true;
   }
   desable1();
@@ -176,6 +176,8 @@ let btn2 = document.getElementById("button2Explosion");
 btn2.onclick = function () {
   count0 = 0;
   function desable2() {
+    
+    document.getElementById("button2Explosion").style.background = '#ed9c28'
     document.getElementById("button2Explosion").disabled = true;
   }
   desable2();

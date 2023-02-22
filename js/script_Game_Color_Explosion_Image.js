@@ -12,9 +12,6 @@ c(
 //  {#60a,2}
 // Explicação dos Exercícios
 //
-//
-//
-//
 window.addEventListener("load", () => {
   const canvas = document.getElementById("canvasExplosion");
   const ctx = canvas.getContext("2d");
@@ -181,16 +178,3 @@ btn2.onclick = function () {
   desable2();
   c(count0);
 };
-
-//
-// let time = 8;
-// let chronometer = setInterval(function () {
-//   time -= 1;
-//   if (time < 0) {
-//     clearInterval(chronometer);
-//     alert("Voce não acertou no tempo determinado! Tente outra vez!");
-//     window.location.href = "game_Over_Color.html";
-//   } else {
-//     document.getElementById("watch").innerHTML = `${time} seconds`;
-//   }
-// }, 1000);

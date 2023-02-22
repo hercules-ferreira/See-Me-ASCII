@@ -120,14 +120,6 @@ myImage.addEventListener("load", function () {
   animate();
 });
 
-////////
-/////
-////
-////
-
-/////////
-//
-//
 //
 // IMAGEM 2
 
@@ -238,11 +230,7 @@ myImage2.addEventListener("load", function () {
   animate();
 });
 
-////////
-/////
 ////
-////
-
 // IMAGEM 3
 const myImage3 = new Image();
 myImage3.src =
@@ -351,10 +339,6 @@ myImage3.addEventListener("load", function () {
   animate();
 });
 
-//////////
-//
-//
-//
 //
 //IAMGEM 4
 
@@ -464,10 +448,6 @@ myImage4.addEventListener("load", function () {
   animate();
 });
 
-// ////////
-// //
-// //
-// //
 // //
 // //
 
@@ -576,8 +556,6 @@ contBtn12.addEventListener("click", function () {
 });
 
 ///
-///////////
-///
 //
 
 // score de pontos
@@ -588,6 +566,7 @@ let btn2 = document.getElementById("button2");
 btn2.onclick = function () {
   count += 1;
   function desable2() {
+    document.getElementById("button2").style.background = "#ed9c28";
     document.getElementById("button2").disabled = true;
   }
   desable2();
@@ -598,6 +577,7 @@ let btn6 = document.getElementById("button6");
 btn6.onclick = function () {
   count += 1;
   function desable6() {
+    document.getElementById("button6").style.background = "#ed9c28";
     document.getElementById("button6").disabled = true;
   }
   desable6();
@@ -608,6 +588,7 @@ let btn8 = document.getElementById("button8");
 btn8.onclick = function () {
   count += 1;
   function desable8() {
+    document.getElementById("button8").style.background = "#ed9c28";
     document.getElementById("button8").disabled = true;
   }
   desable8();
@@ -618,6 +599,7 @@ let btn10 = document.getElementById("button10");
 btn10.onclick = function () {
   count += 1;
   function desable10() {
+    document.getElementById("button10").style.background = "#ed9c28";
     document.getElementById("button10").disabled = true;
   }
   desable10();
@@ -651,6 +633,7 @@ let btn1 = document.getElementById("button1");
 btn1.onclick = function () {
   count0 = 0;
   function desable1() {
+    document.getElementById("button1").style.background = "#ed9c28";
     document.getElementById("button1").disabled = true;
   }
   desable1();
@@ -661,6 +644,7 @@ let btn3 = document.getElementById("button3");
 btn3.onclick = function () {
   count0 = 0;
   function desable3() {
+    document.getElementById("button3").style.background = "#ed9c28";
     document.getElementById("button3").disabled = true;
   }
   desable3();
@@ -671,6 +655,7 @@ let btn4 = document.getElementById("button4");
 btn4.onclick = function () {
   count0 = 0;
   function desable4() {
+    document.getElementById("button4").style.background = "#ed9c28";
     document.getElementById("button4").disabled = true;
   }
   desable4();
@@ -681,6 +666,7 @@ let btn5 = document.getElementById("button5");
 btn5.onclick = function () {
   count0 = 0;
   function desable5() {
+    document.getElementById("button5").style.background = "#ed9c28";
     document.getElementById("button5").disabled = true;
   }
   desable5();
@@ -691,6 +677,7 @@ let btn7 = document.getElementById("button7");
 btn7.onclick = function () {
   count0 = 0;
   function desable7() {
+    document.getElementById("button7").style.background = "#ed9c28";
     document.getElementById("button7").disabled = true;
   }
   desable7();
@@ -701,6 +688,7 @@ let btn9 = document.getElementById("button9");
 btn9.onclick = function () {
   count0 = 0;
   function desable9() {
+    document.getElementById("button9").style.background = "#ed9c28";
     document.getElementById("button9").disabled = true;
   }
   desable9();
@@ -711,6 +699,7 @@ let btn11 = document.getElementById("button11");
 btn11.onclick = function () {
   count0 = 0;
   function desable11() {
+    document.getElementById("button11").style.background = "#ed9c28";
     document.getElementById("button11").disabled = true;
   }
   desable11();
@@ -721,6 +710,7 @@ let btn12 = document.getElementById("button12");
 btn12.onclick = function () {
   count0 = 0;
   function desable12() {
+    document.getElementById("button12").style.background = "#ed9c28";
     document.getElementById("button12").disabled = true;
   }
   desable12();
