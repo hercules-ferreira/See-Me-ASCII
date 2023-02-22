@@ -790,7 +790,7 @@ btn11.onclick = function () {
 //
 // chronometer
 
-let time = 20;
+let time = 30;
 let chronometer = setInterval(function () {
   time -= 1;
   if (time < 0) {

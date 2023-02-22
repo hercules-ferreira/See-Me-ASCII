@@ -183,14 +183,14 @@ btn2.onclick = function () {
 };
 
 //
-let time = 8;
-let chronometer = setInterval(function () {
-  time -= 1;
-  if (time < 0) {
-    clearInterval(chronometer);
-    alert("Voce não acertou no tempo determinado! Tente outra vez!");
-    window.location.href = "game_Over_Color_Explosion.html";
-  } else {
-    document.getElementById("watch").innerHTML = `${time} seconds`;
-  }
-}, 1000);
+// let time = 8;
+// let chronometer = setInterval(function () {
+//   time -= 1;
+//   if (time < 0) {
+//     clearInterval(chronometer);
+//     alert("Voce não acertou no tempo determinado! Tente outra vez!");
+//     window.location.href = "game_Over_Color.html";
+//   } else {
+//     document.getElementById("watch").innerHTML = `${time} seconds`;
+//   }
+// }, 1000);

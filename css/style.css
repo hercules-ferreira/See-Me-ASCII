@@ -76,19 +76,6 @@ button:hover {
   height: 75%;
 }
 
-#canvasExplosion {
-  border: 2px solid white;
-  position: absolute;
-  top: 21%;
-  left: 40%;
-  transform: translate(-50, -50);
-  width: 22%;
-  height: 75%;
-}
-
-
-
-
 #canvas4 {
   border: 2px solid white;
   position: absolute;
@@ -109,6 +96,26 @@ button:hover {
   cursor: pointer;
   font-size: 15px;
   transition: all 0.3s ease;
+}
+
+#canvasExplosion {
+  border: 2px solid white;
+  position: absolute;
+  top: 21%;
+  left: 40%;
+  transform: translate(-50, -50);
+  width: 22%;
+  height: 75%;
+}
+
+#image1_See {
+  border: 2px solid white;
+  position: absolute;
+  top: 15%;
+  left: 25;
+  transform: translate(-50, -50);
+  width: 40%;
+  height: 60%;
 }
 
 .ImageBtn:hover {
@@ -192,6 +199,12 @@ button:hover {
   margin-left:130px;
 }
 
+#button_See_Liam {
+  top: 8%;
+  margin-left:10px;
+}
+
+
 #seeImages_black {
   width: 25%;
   position: absolute;
@@ -227,9 +240,6 @@ button:hover {
   transform: translate(-50%, -50%);
 }
 
-
-
-
 #game_Over_Color_Black_White_See_Images_See {
   width: 25%;
   position: absolute;
@@ -237,10 +247,6 @@ button:hover {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
-
-
-
 
 #game_Over_Color_Black_White_See_Images {
   width: 25%;
@@ -251,9 +257,13 @@ button:hover {
 }
 
 
-
-
-
+#game_Over_Color_Images_See_Explosion {
+  width: 25%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 
 
@@ -287,6 +297,17 @@ button:hover {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+
+#script_Game_Color_Explosion_Image {
+  width: 45%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 
 
 #seeImages_rules {
