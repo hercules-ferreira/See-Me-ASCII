@@ -24,7 +24,6 @@ button {
   color: black;
 }
 
- 
 button:hover {
   cursor: pointer;
 } 
@@ -357,7 +356,6 @@ button:hover {
 }
 
 #canvasExplosion {
-  /* background: blue; */
   position: absolute;
 }
 .controls {
@@ -384,8 +382,8 @@ button:hover {
   color: #fff;
    font-family: 'Playfair Display SC', georgia;
   font-size: 1rem;
-  line-height: 1;
-  font-weight: 400;
+  line-height: 2;
+  font-weight: 200;
   margin-bottom: 1rem;
   grid-column: 1 / 4;
 }
@@ -394,6 +392,7 @@ button:hover {
 #ulDescricao{
   margin-top: 20px;
   margin-left: 650px;
+  margin-right: 150px;
   position: absolute;
   text-align: center;
   background-color: #f1e1c9;
@@ -404,9 +403,6 @@ button:hover {
   font-size: 15px;
   transition: all 0.3s ease;
 }
-
-
-
 
 .scrollbar-lista {
   height: 370px;
@@ -419,17 +415,17 @@ button:hover {
 }
 
 .scrollbar-lista::-webkit-scrollbar {
-  width: 18px;
+  width: 10px;
 }
 
 .scrollbar-lista::-webkit-scrollbar-thumb {
   background: #FB5;
-  border-left: 4px solid #faf6ed;
-  border-right: 4px solid #faf6ed;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
 }
 
 .scrollbar-lista::-webkit-scrollbar-track {
-  background: #faf6ed;
+  background:black;
 }
 
 .scrollbar-descricao {
