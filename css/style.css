@@ -65,7 +65,7 @@ button:hover {
   left: 4%;
   transform: translate(-50, -50);
   width: 22%;
-  height: 75%;
+  height: 68%;
 }
 
 #canvas2 {
@@ -75,7 +75,7 @@ button:hover {
   left: 27%;
   transform: translate(-50, -50);
   width: 22%;
-  height: 75%;
+  height: 68%;
 }
 
 #canvas3 {
@@ -85,7 +85,7 @@ button:hover {
   left: 50%;
   transform: translate(-50, -50);
   width: 22%;
-  height: 75%;
+  height: 68%;
 }
 
 #canvas4 {
@@ -95,7 +95,7 @@ button:hover {
   left: 73%;
   transform: translate(-50, -50);
   width: 22%;
-  height: 75%;
+  height: 68%;
 }
 
 #canvasExplosion {
@@ -105,7 +105,7 @@ button:hover {
   left: 40%;
   transform: translate(-50, -50);
   width: 22%;
-  height: 75%;
+  height: 72%;
 }
 
 #image1_See {
@@ -504,4 +504,15 @@ cursor: pointer;
 
 .scrollbar-descricao section {
   margin-bottom: 3rem;
+}
+
+footer {
+  margin-top: 493px;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  font-style: italic;
+  padding-top: 50px;
+  background: #000000;
+  color: #FFFFFF;
 }
