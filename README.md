@@ -65,6 +65,7 @@
 - [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Easy - O jogador após escolher o botão, receberá o score com a sua pontuação, de acordo com o seu tempo de resposta. E no final do game o jogador poderá escolher em ver a imagem caso seja de sua vontade.
 
   <img src="./image/01 -rulles_Image_Angelina.png">
+  <br>
   <img src="./image/02 -rulles_ImageAng_02.png">
 
 <br>- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - O jogador terá poucos segundos para escolher qual imagem está se formando.
@@ -75,6 +76,7 @@
 
 - [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Quanto mais o tempo passa, menor será a pontuação do jogador. Com o decorrer do cronometro os pixels vão se alinhando, formando a imagem.  
    :bulb: _Dica_: Seja rápido.
+  <br>
   <img src="./image/02 -rulles_Image_Al_Pacino.png">
 
   <br>
