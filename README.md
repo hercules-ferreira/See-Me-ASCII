@@ -70,7 +70,7 @@
 
   <img src="./image/02 -rulles_ImageAng_02.png">
 
-<br>- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - O jogador terá poucos segundos para escolher qual imagem está se formando.
+<br>📌 [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - O jogador terá poucos segundos para escolher qual imagem está se formando.
 :bulb: _Dica_: Seja rápido.
 <br>
 <img src="./image/01 -rulles_Image_Al_Pacino.png">
