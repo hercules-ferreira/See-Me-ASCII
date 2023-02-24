@@ -458,7 +458,7 @@ let total = 0;
 let contBtn2 = document.getElementById("button2");
 // c(contBtn2);
 contBtn2.addEventListener("click", function () {
-  let = scoreBtn2 = 0;
+  let scoreBtn2 = 0;
   scoreBtn2 = "botão 2 clicado";
   c(scoreBtn2);
 });
@@ -466,7 +466,7 @@ contBtn2.addEventListener("click", function () {
 let contBtn6 = document.getElementById("button6");
 // c(contBtn6);
 contBtn6.addEventListener("click", function () {
-  let = scoreBtn6 = 0;
+  let scoreBtn6 = 0;
   scoreBtn6 = "botão 6 clicado";
   c(scoreBtn6);
 });
@@ -474,7 +474,7 @@ contBtn6.addEventListener("click", function () {
 let contBtn8 = document.getElementById("button8");
 // c(contBtn8);
 contBtn8.addEventListener("click", function () {
-  let = scoreBtn8 = 0;
+  let scoreBtn8 = 0;
   scoreBtn8 += 1;
   c("botão 8 clicado");
 });
@@ -483,7 +483,7 @@ contBtn8.addEventListener("click", function () {
 let contBtn10 = document.getElementById("button10");
 // c(contBtn10);
 contBtn10.addEventListener("click", function () {
-  let = scoreBtn10 = 0;
+  let scoreBtn10 = 0;
   scoreBtn10 += 1;
   c("botão 10 clicado");
 });
@@ -494,7 +494,7 @@ contBtn10.addEventListener("click", function () {
 let contBtn1 = document.getElementById("button1");
 // c(contBtn1);
 contBtn1.addEventListener("click", function () {
-  let = scoreBtn1 = 0;
+  let scoreBtn1 = 0;
   scoreBtn1 = "botão 1 clicado";
   c(scoreBtn1);
 });
@@ -502,7 +502,7 @@ contBtn1.addEventListener("click", function () {
 let contBtn3 = document.getElementById("button3");
 // c(contBtn3);
 contBtn3.addEventListener("click", function () {
-  let = scoreBtn3 = 0;
+  let scoreBtn3 = 0;
   scoreBtn3 += 1;
   c("botão 3 clicado");
 });
@@ -510,7 +510,7 @@ contBtn3.addEventListener("click", function () {
 let contBtn4 = document.getElementById("button4");
 // c(contBtn4);
 contBtn4.addEventListener("click", function () {
-  let = scoreBtn4 = 0;
+  let scoreBtn4 = 0;
   scoreBtn4 += 1;
   c("botão 4 clicado");
 });
@@ -518,7 +518,7 @@ contBtn4.addEventListener("click", function () {
 let contBtn5 = document.getElementById("button5");
 // c(contBtn5);
 contBtn5.addEventListener("click", function () {
-  let = scoreBtn5 = 0;
+  let scoreBtn5 = 0;
   scoreBtn5 = "botão 5 clicado";
   c(scoreBtn5);
 });
@@ -526,7 +526,7 @@ contBtn5.addEventListener("click", function () {
 let contBtn7 = document.getElementById("button7");
 // c(contBtn7);
 contBtn7.addEventListener("click", function () {
-  let = scoreBtn7 = 0;
+  let scoreBtn7 = 0;
   scoreBtn7 = "botão 7 clicado";
   c(scoreBtn7);
 });
@@ -534,7 +534,7 @@ contBtn7.addEventListener("click", function () {
 let contBtn9 = document.getElementById("button9");
 // c(contBtn9);
 contBtn9.addEventListener("click", function () {
-  let = scoreBtn9 = 0;
+  let scoreBtn9 = 0;
   scoreBtn9 = "botão 9 clicado";
   c(scoreBtn9);
 });
@@ -542,7 +542,7 @@ contBtn9.addEventListener("click", function () {
 let contBtn11 = document.getElementById("button11");
 // c(contBtn11);
 contBtn11.addEventListener("click", function () {
-  let = scoreBtn11 = 0;
+  let scoreBtn11 = 0;
   scoreBtn11 = "botão 11 clicado";
   c(scoreBtn11);
 });
@@ -550,7 +550,7 @@ contBtn11.addEventListener("click", function () {
 let contBtn12 = document.getElementById("button12");
 // c(contBtn12);
 contBtn12.addEventListener("click", function () {
-  let = scoreBtn12 = 0;
+  let scoreBtn12 = 0;
   scoreBtn12 = "botão 12 clicado";
   c(scoreBtn12);
 });
