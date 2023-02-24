@@ -683,7 +683,7 @@ let chronometer = setInterval(function () {
   if (time < 0) {
     clearInterval(chronometer);
     alert("Voce não acertou no tempo determinado! Tente outra vez!");
-    window.location.href = "game_Over_Black_White.html";
+    window.location.href = "game_Over_black_White.html";
   } else {
     document.getElementById("watch").innerHTML = `${time} seconds`;
   }

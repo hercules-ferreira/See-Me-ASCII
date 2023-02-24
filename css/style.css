@@ -369,6 +369,18 @@ cursor: pointer;
   transform: translate(-50%, -50%);
 }
 
+#rulesIntro:hover {
+  background-color: #fff;
+  color: #000000;
+  font-size: medium;
+}
+
+#rulesIntro:hover {
+  background-color: #fff;
+  color: #000000;
+  font-size: medium;
+}
+
 .ImageBtn2 {
   position: absolute;
   text-align: center;
