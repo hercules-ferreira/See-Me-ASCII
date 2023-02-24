@@ -279,6 +279,32 @@ button:hover {
 cursor: pointer;
 }
 
+
+
+
+
+#Start_color2 {
+  width: 350px;  
+  height: 30px;
+  position: absolute;
+  top: 14%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  text-decoration: none;
+cursor: pointer;
+}
+
+
+
+#Start_color2:hover {
+  background-color: #fff;
+  color: #000000;
+  font-size: medium;
+}
+
+
+
 #Start_color:hover {
   background-color: #fff;
   color: #000000;
