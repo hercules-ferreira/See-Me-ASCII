@@ -50,38 +50,41 @@
 <h1><span style="color:blue">
 <font size=30>🛠 Instalação</font></span></h1>
 
-- [Como Jogar](https://github.com/ai/size-limit#readme) - Esse modelo de game vem pronto para utilização.
+📌 [Como Jogar](https://github.com/ai/size-limit#readme) - Esse modelo de game vem pronto para utilização.
 
-- [Como iniciar o Game](https://github.com/ai/size-limit#readme) - Após clicar no link dp game, ele abrirá automaticamente.
+📌 [Como iniciar o Game](https://github.com/ai/size-limit#readme) - Após clicar no link dp game, ele abrirá automaticamente.
 
-- [Funcionalidades](https://github.com/ai/size-limit#readme) - O jogador precisa apenas clicar nos botões de acesso, e escolher o nível do game, de acordo com a sua vontade.
+📌 [Funcionalidades](https://github.com/ai/size-limit#readme) - O jogador precisa apenas clicar nos botões de acesso, e escolher o nível do game, de acordo com a sua vontade.
 
 <h1><span style="color:blue">
 <font size=30>📈 Exemplos de uso do Game
 </font></span></h1>
 
-- [Fases do Game](https://github.com/ai/size-limit#readme) - Level Easy - Nessa fase, enquanto a imagem é renderizada, o jogador terá um tempo cronometrado para acertar a imagem que vai se formando.
-  <br>
-- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Easy - O jogador após escolher o botão, receberá o score com a sua pontuação, de acordo com o seu tempo de resposta. E no final do game o jogador poderá escolher em ver a imagem caso seja de sua vontade.
+📌 [Fases do Game](https://github.com/ai/size-limit#readme) - Level Easy - Nessa fase, enquanto a imagem é renderizada, o jogador terá um tempo cronometrado para acertar a imagem que vai se formando.
 
   <img src="./image/01 -rulles_Image_Angelina.png">
+
   <br>
+
+📌 [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Easy - O jogador após escolher o botão, receberá o score com a sua pontuação, de acordo com o seu tempo de resposta. E no final do game o jogador poderá escolher em ver a imagem caso seja de sua vontade.
+
   <img src="./image/02 -rulles_ImageAng_02.png">
 
 <br>- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - O jogador terá poucos segundos para escolher qual imagem está se formando.
-
-  <img src="./image/01 -rulles_Image_Al_Pacino.png">
+:bulb: _Dica_: Seja rápido.
+<br>
+<img src="./image/01 -rulles_Image_Al_Pacino.png">
 
 <br>
 
-- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Quanto mais o tempo passa, menor será a pontuação do jogador. Com o decorrer do cronometro os pixels vão se alinhando, formando a imagem.  
-   :bulb: _Dica_: Seja rápido.
-  <br>
-  <img src="./image/02 -rulles_Image_Al_Pacino.png">
+📌 [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Quanto mais o tempo passa, menor será a pontuação do jogador. Com o decorrer do cronometro os pixels vão se alinhando, formando a imagem.  
+ :bulb: _Dica_: Seja rápido.
+<br>
+<img src="./image/02 -rulles_Image_Al_Pacino.png">
 
   <br>
 
-- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Sempre no final do game o jogador pode checar qual era imagem a ser formada.
+📌 [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Sempre no final do game o jogador pode checar qual era imagem a ser formada.
 
    <img src="./image/03 -rulles_Image_Al_Pacino.png">
   <br>
@@ -92,7 +95,7 @@
 
 > :construction: Novas Versões do Game :construction:
 
-- O Objetivo do game será, colocar uma facilidade onde o jogador terá a autonomia de escolher a imagem que será carregada no game, e poderá interagir com outras pessoas. Avaliando o melhor desempenho do grupo.
+📌 [Objetivos](https://github.com/ai/size-limit#readme) do game será, colocar uma facilidade onde o jogador terá a autonomia de escolher a imagem que será carregada no game, e poderá interagir com outras pessoas. Avaliando o melhor desempenho do grupo.
 
 <h1><span style="color:blue">
 <font size=30>📋 Principais aplicações para a confecção do Game
