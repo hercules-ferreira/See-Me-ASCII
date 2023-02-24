@@ -36,7 +36,7 @@
 <br>
 📜 No final de cada Game o jogador poderá visualizar cada imagem se preferir.
 <br>
-Nesta Etapa a combinação de pixels é uma explosão de pixels.
+📜 Nesta Etapa a combinação de pixels é uma explosão de pixels.
 <br>
 📜 Há uma fase do Game onde os pixels são manipulados para reconstituir e formar a imagem.
 <br>
@@ -46,8 +46,6 @@ Nesta Etapa a combinação de pixels é uma explosão de pixels.
 <br>
 📜 No final de cada Game o jogador poderá visualizar cada imagem se preferir
 <br>
-
-- [Atualizações](https://github.com/ai/size-limit#readme) - A Projeto poderá sofre atualizações a qualquer momento, garantindo assim o bom funcionamento e atualizações d enovas tecnologias, bem como contribuições, da comunidade Dev.
 
 <h1><span style="color:blue">
 <font size=30>🛠 Instalação</font></span></h1>
@@ -65,8 +63,7 @@ Nesta Etapa a combinação de pixels é uma explosão de pixels.
 - [Fases do Game](https://github.com/ai/size-limit#readme) - Level Easy - Nessa fase, enquanto a imagem é renderizada, o jogador terá um tempo cronometrado para acertar a imagem que vai se formando.
   <br>
 - [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Easy - O jogador após escolher o botão, receberá o score com a sua pontuação, de acordo com o seu tempo de resposta. E no final do game o jogador poderá escolher em ver a imagem caso seja de sua vontade.
-
-    <img src="./image/02 -rulles_ImageAng_02.png">
+  <img src="./image/02 -rulles_ImageAng_02.png">
 
 <br>- [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - O jogador terá poucos segundos para escolher qual imagem está se formando.  
  <img src="./image/01 -rulles_Image_Al_Pacino.png">
@@ -74,10 +71,11 @@ Nesta Etapa a combinação de pixels é uma explosão de pixels.
 <br>
 
 - [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Quanto mais o tempo passa, menor será a pontuação do jogador. Com o decorrer do cronometro os pixels vão se alinhando, formando a imagem.  
- :bulb: _Dica_: Seja rápido
+   :bulb: _Dica_: Seja rápido
 
-  <img src="./image/02 -rulles_Image_Al_Pacino.png">
-<br>
+              <img src="./image/02 -rulles_Image_Al_Pacino.png">
+
+  <br>
 
 - [Fases do Acertos](https://github.com/ai/size-limit#readme) - Level Hard - Sempre no final do game o jogador pode checar qual era imagem a ser formada.
   <img src="./image/03 -rulles_Image_Al_Pacino.png">
