@@ -117,7 +117,7 @@
 | class                         |
 | for()                         |
 | forEach()                     |
-| pu()                          |
+| push()                        |
 | Math.random()                 |
 | Math.floor()                  |
 | parseInt()                    |
