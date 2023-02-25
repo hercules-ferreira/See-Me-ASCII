@@ -36,9 +36,9 @@
 <br>
 📜 No final de cada Game o jogador poderá visualizar cada imagem se preferir.
 <br>
-📜 Nesta Etapa a combinação de pixels é uma explosão de pixels.
+📜 Há uma etapa com a combinação de pixels é uma explosão de pixels.
 <br>
-📜 Há uma fase do Game onde os pixels são manipulados para reconstituir e formar a imagem.
+📜 Com a explosão dos pixels, nessa fase do Game, os pixels são manipulados para reconstituir e formar a imagem.
 <br>
 📜 O jogador terá alguns segundos para descobrir quem é o ator no menor tempo possível.
 <br>
@@ -52,15 +52,15 @@
 
 📌 [Como Jogar](https://github.com/ai/size-limit#readme) - Esse modelo de game vem pronto para utilização.
 
-📌 [Como iniciar o Game](https://github.com/ai/size-limit#readme) - Após clicar no link dp game, ele abrirá automaticamente.
+📌 [Como iniciar o Game](https://github.com/ai/size-limit#readme) - Após clicar no link do game, ele abrirá automaticamente.
 
-📌 [Funcionalidades](https://github.com/ai/size-limit#readme) - O jogador precisa apenas clicar nos botões de acesso, e escolher o nível do game, de acordo com a sua vontade.
+📌 [Funcionalidades](https://github.com/ai/size-limit#readme) - O jogador precisará apenas clicar nos botões de acesso, e escolher o nível do game, de acordo com a sua vontade.
 
 <h1><span style="color:blue">
 <font size=30>📈 Exemplos de uso do Game
 </font></span></h1>
 
-📌 [Fases do Game](https://github.com/ai/size-limit#readme) - Level Easy - Nessa fase, enquanto a imagem é renderizada, o jogador terá um tempo cronometrado para acertar a imagem que vai se formando.
+📌 [Fases do Game](https://github.com/ai/size-limit#readme) - Level Easy - Nessa fase, enquanto a imagem é formada, o jogador terá um tempo cronometrado para acertar a imagem que vai se formando.
 
   <img src="./image/01 -rulles_Image_Angelina.png">
 
